@@ -1,2 +1,2 @@
 # PekComics-Android-App
-Android app for checking release of new episodes
+Android app for reading and checking release of new comics
